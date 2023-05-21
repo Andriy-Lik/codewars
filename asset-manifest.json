@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codewars/static/css/main.7acaea2f.css",
+    "main.js": "/codewars/static/js/main.6636b30d.js",
+    "index.html": "/codewars/index.html",
+    "main.7acaea2f.css.map": "/codewars/static/css/main.7acaea2f.css.map",
+    "main.6636b30d.js.map": "/codewars/static/js/main.6636b30d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.6636b30d.js"
+  ]
+}
