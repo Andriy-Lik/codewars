@@ -14,4 +14,8 @@ function StringToNumber(str) {
     console.log(Number("-7"));
 };
 
+// function numberToString(num) {
+//     return String(num);
+// }
+
 export default StringToNumber;
